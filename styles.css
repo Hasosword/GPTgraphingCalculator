@@ -1,0 +1,17 @@
+#calculator {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#expression {
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#graph {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+}
